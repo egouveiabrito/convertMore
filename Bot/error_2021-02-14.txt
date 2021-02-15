@@ -1,0 +1,24 @@
+********* ERRO INTERNO NO PROCESSAMENTO *********
+  DATA: 14/02/2021 09:01:20
+  MÉTODO: Bot.ConvertMais - CALLBACK
+
+  EXCEPTION.MESSAGE: Mailbox unavailable. The server response was: 5.4.5 Daily user sending quota exceeded. q204sm10148588qka.84 - gsmtp
+
+  INNER EXCEPTION.MESSAGE: 
+********************************************************************
+********* ERRO INTERNO NO PROCESSAMENTO *********
+  DATA: 14/02/2021 16:48:47
+  MÉTODO: Bot.ConvertMais - CALLBACK
+
+  EXCEPTION.MESSAGE: Mailbox unavailable. The server response was: 5.4.5 Daily user sending quota exceeded. g21sm865785qtv.68 - gsmtp
+
+  INNER EXCEPTION.MESSAGE: 
+********************************************************************
+********* ERRO INTERNO NO PROCESSAMENTO *********
+  DATA: 14/02/2021 23:44:00
+  MÉTODO: Bot.ConvertMais - CALLBACK
+
+  EXCEPTION.MESSAGE: Mailbox unavailable. The server response was: 5.4.5 Daily user sending quota exceeded. r10sm10148897qtn.21 - gsmtp
+
+  INNER EXCEPTION.MESSAGE: 
+********************************************************************

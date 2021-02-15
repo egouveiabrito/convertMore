@@ -1,0 +1,4 @@
+.:: Realizando login ::. 13/02/2021 19:21:28.:: Logado com sucesso ::. 13/02/2021 19:21:38
+.:: Acessar Leads ::. qualificado_sem_agendamento - Consorcio_Renault - 13/02/2021 19:21:38.:: Acessado com sucesso ::. 13/02/2021 19:22:15
+.:: Iniciado buscas na pagina: 2 ...
+Ops! Você ultrapassou o limite de envios diário, execute novamente amanhã. 

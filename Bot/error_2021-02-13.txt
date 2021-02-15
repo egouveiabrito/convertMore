@@ -1,0 +1,8 @@
+********* ERRO INTERNO NO PROCESSAMENTO *********
+  DATA: 13/02/2021 19:22:49
+  MÉTODO: Bot.ConvertMais - CALLBACK
+
+  EXCEPTION.MESSAGE: Mailbox unavailable. The server response was: 5.4.5 Daily user sending quota exceeded. v18sm8992171qkv.62 - gsmtp
+
+  INNER EXCEPTION.MESSAGE: 
+********************************************************************
